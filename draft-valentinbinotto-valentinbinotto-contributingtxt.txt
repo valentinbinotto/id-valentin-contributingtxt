@@ -77,6 +77,7 @@ Table of Contents
    4.  Security Considerations
    5.  IANA Considerations
    6.  Normative References
+   7.  Normative References
    Acknowledgments
    Author's Address
 
@@ -199,6 +200,10 @@ Table of Contents
    This document has no IANA actions.
 
 6.  Normative References
+
+   itti
+
+7.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
