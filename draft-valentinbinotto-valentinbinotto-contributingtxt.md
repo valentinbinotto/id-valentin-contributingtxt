@@ -67,11 +67,11 @@ The file "contributing.txt" MUST contain at least:<br><br>
 2. Paragraph "Bugs" with a mail address or a web address to report bugs
 <br><br>
 Example:
-<
+<br><br>
 Admin: Valentin Binotto
 Bugs: bugs@vauly.net
-
 <br><br><br>
+
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
 3. Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com)
@@ -83,19 +83,19 @@ Example:
 Open Source: github.com/valentinbinotto
 License: Creative Commons Attribution 4.0 International Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
-
 <br><br><br>
+
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).
 <br><br>
 Example: 
 
 Hello, world!
-
 <br><br>
+
 The specified paragraphs must be placed in the specified order. Only one entry is allowed per paragraph
-
-
 <br><br><br>
+
+
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.
 <br><br>
 Example for a "hdhdszu.txt" file:
