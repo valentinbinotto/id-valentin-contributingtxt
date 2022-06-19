@@ -138,7 +138,6 @@ Table of Contents
    2.  Paragraph "Bugs" with a mail address or a web address to report
        bugs.
 
-
        Example:
 
        Admin: Valentin Binotto
