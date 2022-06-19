@@ -127,10 +127,8 @@ Table of Contents
    (MIME type "text/plain") (Section 4.1.3 of RFC2046) and MUST be
    encoded using UTF-8 (RFC3629).
 
-   The file "contributing.txt" MUST be placed in the ".well-known"
-   directory (for example: example.com/.well-known/contributing.txt).
-   Additionally, a copy can optionally be stored directly under the
-   domain (for example: example.com/contributing.txt).
+   The file "contributing.txt" MUST be placed directly under the domain
+   (for example: example.com/contributing.txt).
 
    The file "contributing.txt" MUST contain at least:
 
