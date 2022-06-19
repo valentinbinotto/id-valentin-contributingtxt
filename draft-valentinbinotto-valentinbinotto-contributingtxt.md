@@ -68,7 +68,7 @@ The file "contributing.txt" MUST contain at least:<br><br>
 <br><br>
 Example:
 <br><br>
-Admin: Valentin Binotto
+Admin: Valentin Binotto<br>
 Bugs: bugs@vauly.net
 <br><br><br>
 
@@ -80,8 +80,8 @@ OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 <br><br>
 Example:
 
-Open Source: github.com/valentinbinotto
-License: Creative Commons Attribution 4.0 International Public License
+Open Source: github.com/valentinbinotto<br>
+License: Creative Commons Attribution 4.0 International Public License<br>
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 <br><br><br>
 
@@ -102,12 +102,12 @@ Example for a "hdhdszu.txt" file:
 <br><br><br>
 
 
-Admin: Valentin Binotto
-Bugs: bugs@vauly.net
-Open Source: github.com/valentinbino
-License: Creative Commons Attribution 4.0 International Public License
-Guidelines: github.com/valentinbinotto/v434/guidelines.txt
-Valentin Binotto
+Admin: Valentin Binotto<br>
+Bugs: bugs@vauly.net<br>
+Open Source: github.com/valentinbino<br>
+License: Creative Commons Attribution 4.0 International Public License<br>
+Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br>
+Valentin Binotto<br>
 92ee219838c69464862e86cb67549d1ab1eae3a7fa0d8925970fea303a72849e
 
 
