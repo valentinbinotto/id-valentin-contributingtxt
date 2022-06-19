@@ -130,8 +130,7 @@ Table of Contents
    The file "contributing.txt" MUST be placed directly under the domain
    (for example: example.com/contributing.txt).
 
-   The file "contributing.txt" MUST contain at least: ## 3.1 hello
-   hello:
+   The file "contributing.txt" MUST contain at least: # 3.1 hello hello:
 
    *  Paragraph "Admin" with the name of the administrator or the
       webmaster.
