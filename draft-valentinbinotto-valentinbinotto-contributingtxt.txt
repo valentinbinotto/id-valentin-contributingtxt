@@ -8,7 +8,7 @@ Intended status: Informational                              19 June 2022
 Expires: 21 December 2022
 
 
-contributing.txt - a simple way to provide informations for contributors
+         a simple way to provide informations for contributors
       draft-valentinbinotto-valentinbinotto-contributingtxt-latest
 
 Abstract
