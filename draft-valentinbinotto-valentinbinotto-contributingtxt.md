@@ -1,5 +1,5 @@
 ---
-title: "TODO - Contributing.txt"
+title: "Contributing.txt -  a simple way to find contributors for a website"
 category: info
 
 docname: draft-valentinbinotto-valentinbinotto-contributingtxt-latest
