@@ -59,7 +59,9 @@ The goal of this document and the proposed form of communication in the "contrib
 This document defines a file called "contributing.txt", which provides information about possible contribution to a project or website.  The file format of "contributing.txt" MUST be plain text (MIME type "text/plain") (Section 4.1.3 of RFC2046) and MUST be encoded using UTF-8 (RFC3629).<br><br>The file "contributing.txt" MUST be placed directly under the domain (for example: example.com/contributing.txt).<br><br>The file "contributing.txt" MUST contain at least:
 
 1. Paragraph "Admin" with the name of the administrator or the webmaster.
-2. Paragraph "Bugs" with a mail address or a web address to report bugs.<br><br>Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br><br><br>OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
+2. Paragraph "Bugs" with a mail address or a web address to report bugs.<br><br>Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br><br><br>
+ 
+OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
 3. Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).
 4. Paragraph "License" with information about the license that applies to the content of the website.
