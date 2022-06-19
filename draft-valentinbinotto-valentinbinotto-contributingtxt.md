@@ -61,22 +61,13 @@ This document defines a file called "contributing.txt", which provides informati
 1. Paragraph "Admin" with the name of the administrator or the webmaster
 2. Paragraph "Bugs" with a mail address or a web address to report bugs
 
-Example:
-
-Admin: Valentin Binotto
-Bugs: bugs@vauly.net
-
-
-OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
+Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br><br>OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
 3. Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com)
 4. Paragraph "License" with information about the license that applies to the content of the website.
 5. Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
 
-Example:
-
-Open Source: github.com/valentinbinotto
-License: Creative Commons Attribution 4.0 International Public License
+Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 International Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
 
