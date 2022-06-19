@@ -167,6 +167,7 @@ Table of Contents
        Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
 
+
        OPTIONALLY, comments can be added to the "contributing.txt" file.
        Each line of the comment must start with "#" (%x23).
 
@@ -190,8 +191,7 @@ Table of Contents
        License: Creative Commons Attribution 4.0 Int. Public License
        Guidelines: github.com/valentinbinotto/v434/guidelines.txt
        # Valentin Binotto
-       #
-       92ee219838c69464862e86cb67549d1ab1eae3a7fa0d8925970fea303a72849e
+       # Hello, world!
 
 4.  Security Considerations
 
