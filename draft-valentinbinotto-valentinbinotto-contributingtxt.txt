@@ -25,16 +25,15 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at https://v434.info/
-   id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-
-   contributingtxt.txt.  Status information for this document may be
-   found at https://datatracker.ietf.org/doc/draft-valentinbinotto-
-   valentinbinotto-contributingtxt/.
+   The latest revision of this draft can be found at
+   https://github.com/valentinbinotto/id-valentin-
+   contributingtxt/blob/main/v-last.txt.  Status information for this
+   document may be found at https://datatracker.ietf.org/doc/draft-
+   valentinbinotto-valentinbinotto-contributingtxt/.
 
    Discussion of this document takes place on the V434 Project Working
    Group mailing list (mailto:rfc@vauly.net), which is archived at
-   https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-
-   valentinbinotto-contributingtxt.txt.
+   https://github.com/valentinbinotto/id-valentin-contributingtxt-list.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/valentinbinotto/id-valentin-contributingtxt.
@@ -192,8 +191,8 @@ Table of Contents
 
 4.  Security Considerations
 
-   Because of the use of URIs, security considerations of RFC3986 apply
-   here.
+   Because of the use of URIs, security considerations of [RFC3986]
+   apply here.
 
 5.  IANA Considerations
 
@@ -211,8 +210,6 @@ Table of Contents
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
 Acknowledgments
-
-   TODO acknowledge.
 
 Author's Address
 
