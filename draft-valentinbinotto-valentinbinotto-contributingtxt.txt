@@ -8,7 +8,7 @@ Intended status: Informational                              19 June 2022
 Expires: 21 December 2022
 
 
-   contributing.txt - a simple way to find contributors for a website
+contributing.txt - a simple way to provide informations for contributors
       draft-valentinbinotto-valentinbinotto-contributingtxt-latest
 
 Abstract
@@ -25,17 +25,19 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-valentinbinotto-
+   The latest revision of this draft can be found at https://v434.info/
+   id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-
+   contributingtxt.txt.  Status information for this document may be
+   found at https://datatracker.ietf.org/doc/draft-valentinbinotto-
    valentinbinotto-contributingtxt/.
 
    Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   mailing list (mailto:valentin@vauly.net), which is archived at
+   https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-
+   valentinbinotto-contributingtxt.txt.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/valentinbinotto/id-valentin-contributingtxt.
 
 Status of This Memo
 
