@@ -62,8 +62,7 @@ Hello, wolrd!
 
 # Security Considerations
 
-TODO Security
-
+Because of the use of URIs and well-known resources, security considerations of [RFC3986] and [RFC8615] apply here.
 
 # IANA Considerations
 
