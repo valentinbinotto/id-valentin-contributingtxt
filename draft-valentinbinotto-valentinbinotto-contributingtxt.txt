@@ -8,7 +8,7 @@ Intended status: Informational                              19 June 2022
 Expires: 21 December 2022
 
 
-                        TODO - Contributing.txt
+   Contributing.txt - a simple way to find contributors for a website
       draft-valentinbinotto-valentinbinotto-contributingtxt-latest
 
 Abstract
