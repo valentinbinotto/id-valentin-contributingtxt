@@ -1,5 +1,5 @@
 ---
-title: "contributing.txt -  a simple way to provide informations for contributors"
+title: "a simple way to provide informations for contributors"
 abbrev: "contributing.txt"
 category: info
 
