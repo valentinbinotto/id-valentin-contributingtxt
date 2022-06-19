@@ -60,7 +60,6 @@ This document defines a file called "contributing.txt", which provides informati
 
 1. Paragraph "Admin" with the name of the administrator or the webmaster.
 2. Paragraph "Bugs" with a mail address or a web address to report bugs.<br><br>Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br><br><br>
- 
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
 3. Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).
