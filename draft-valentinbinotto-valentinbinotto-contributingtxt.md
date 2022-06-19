@@ -57,7 +57,7 @@ The goal of this document and the proposed form of communication in the "contrib
 
 # The Specification
 
-This document defines a file called "contributing.txt", which provides information about possible contribution to a project or website.  The file format of "contributing.txt" MUST be plain text (MIME type "text/plain") (Section 4.1.3 of RFC2046) and MUST be encoded using UTF-8 (RFC3629).
+This document defines a file called "contributing.txt", which provides information about possible contribution to a project or website.  The file format of "contributing.txt" MUST be plain text (MIME type "text/plain") (Section 4.1.3 of RFC2046) and MUST be encoded using UTF-8 (RFC3629).<br><br>
 
 The file "contributing.txt" MUST be placed in the ".well-known" directory (for example: example.com/.well-known/contributing.txt). Additionally, a copy can optionally be stored directly under the domain (for example: example.com/contributing.txt).
 
@@ -89,7 +89,7 @@ OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of t
 
 Example: 
 
-    # Hello, world!
+Hello, world!
 
 
 The specified paragraphs must be placed in the specified order. Only one entry is allowed per paragraph
@@ -107,14 +107,9 @@ Bugs: bugs@vauly.net
 Open Source: github.com/valentinbino
 License: Creative Commons Attribution 4.0 International Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
-    # Valentin Binotto
-    # 92ee219838c69464862e86cb67549d1ab1eae3a7fa0d8925970fea303a72849e
+Valentin Binotto
+92ee219838c69464862e86cb67549d1ab1eae3a7fa0d8925970fea303a72849e
 
-
-
-
-
- 
 
 # Security Considerations
 
