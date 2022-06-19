@@ -1,5 +1,5 @@
 ---
-title: "contributing.txt -  a simple way to find contributors for a website"
+title: "contributing.txt -  a simple way to provide informations for contributors"
 abbrev: "contributing.txt"
 category: info
 
@@ -18,10 +18,10 @@ keyword:
 venue:
   group: WG
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  mail: valentin@vauly.net
+  arch: https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
+  github: valentinbinotto/id-valentin-contributingtxt
+  latest: https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
 
 author:
  -
