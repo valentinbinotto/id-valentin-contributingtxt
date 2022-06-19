@@ -68,7 +68,7 @@ This document defines a file called "contributing.txt", which provides informati
 
 # Security Considerations
 
-Because of the use of URIs and well-known resources, security considerations of [RFC3986] and [RFC8615] apply here.
+Because of the use of URIs, security considerations of [RFC3986] apply here.
 
 # IANA Considerations
 
