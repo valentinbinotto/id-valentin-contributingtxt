@@ -192,8 +192,8 @@ Table of Contents
 
 4.  Security Considerations
 
-   Because of the use of URIs, security considerations of [RFC3986]
-   apply here.
+   Because of the use of URIs, security considerations of #RFC3986 apply
+   here.
 
 5.  IANA Considerations
 
