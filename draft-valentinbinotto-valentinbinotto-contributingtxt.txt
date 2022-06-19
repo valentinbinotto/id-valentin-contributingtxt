@@ -124,9 +124,8 @@ Table of Contents
    This document defines a file called "contributing.txt", which
    provides information about possible contribution to a project or
    website.  The file format of "contributing.txt" MUST be plain text
-   (MIME type "text/plain") (Section 4.1.3 of RFC2046 (https://www.rfc-
-   editor.org/rfc/rfc2046)) and MUST be encoded using UTF-8 (RFC3629
-   (https://www.rfc-editor.org/rfc/rfc3629)).
+   (MIME type "text/plain") (Section 4.1.3 of [RFC2046]) and MUST be
+   encoded using UTF-8 ([RFC3629]).
 
    The file "contributing.txt" MUST be placed directly under the domain
    (for example: example.com/contributing.txt).
@@ -193,8 +192,8 @@ Table of Contents
 
 4.  Security Considerations
 
-   Because of the use of URIs, security considerations of RFC3986
-   (https://www.rfc-editor.org/rfc/rfc2046) apply here.
+   Because of the use of URIs, security considerations of [RFC3986]
+   apply here.
 
 5.  IANA Considerations
 
@@ -219,4 +218,4 @@ Author's Address
 
    Valentin Binotto
    valentinbinotto
-   Email: valentinbinotto@v434.net
+   Email: valentinbinotto@vauly.net
