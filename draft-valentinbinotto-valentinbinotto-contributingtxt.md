@@ -25,7 +25,7 @@ venue:
 author:
  -
     fullname: Valentin Binotto
-    organization: Your Organization Here
+    organization: valentinbinotto
     email: "valentinbinotto@v434.net"
 
 normative:
