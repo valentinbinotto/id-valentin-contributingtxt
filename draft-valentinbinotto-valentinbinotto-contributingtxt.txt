@@ -31,8 +31,8 @@ About This Document
    found at https://datatracker.ietf.org/doc/draft-valentinbinotto-
    valentinbinotto-contributingtxt/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:valentin@vauly.net), which is archived at
+   Discussion of this document takes place on the V434 Project Working
+   Group mailing list (mailto:rfc@vauly.net), which is archived at
    https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-
    valentinbinotto-contributingtxt.txt.
 
