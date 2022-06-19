@@ -24,9 +24,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Valentin Binotto
     organization: Your Organization Here
-    email: "72608683+valentinbinotto@users.noreply.github.com"
+    email: "valentinbinotto@v434.net"
 
 normative:
 
