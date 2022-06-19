@@ -77,7 +77,6 @@ Table of Contents
    4.  Security Considerations
    5.  IANA Considerations
    6.  Normative References
-   7.  Normative References
    Acknowledgments
    Author's Address
 
@@ -192,7 +191,7 @@ Table of Contents
 
 4.  Security Considerations
 
-   Because of the use of URIs, security considerations of [RFC3986]
+   Because of the use of URIs, security considerations of [RFC2119]
    apply here.
 
 5.  IANA Considerations
@@ -200,10 +199,6 @@ Table of Contents
    This document has no IANA actions.
 
 6.  Normative References
-
-   itti
-
-7.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
