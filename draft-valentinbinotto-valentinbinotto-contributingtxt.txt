@@ -100,11 +100,12 @@ Table of Contents
    The goal of this document and the proposed form of communication in
    the "contributing.txt" file is:
 
-   *  to provide open source or similar projects with the opportunity to
-      inform interested parties about the possibilities of contributing.
+   1.  to provide open source or similar projects with the opportunity
+       to inform interested parties about the possibilities of
+       contributing.
 
-   *  to offer any kind of web site the possibility to define a contact
-      person for bug reports etc.
+   2.  to offer any kind of web site the possibility to define a contact
+       person for bug reports etc.
 
 2.  Conventions and Definitions
 
