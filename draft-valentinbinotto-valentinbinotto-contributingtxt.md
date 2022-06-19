@@ -29,10 +29,7 @@ author:
     organization: valentinbinotto
     email: "valentinbinotto@vauly.net"
 
-normative: 
-   RFC2046
-   RFC3629
-   RFC3986
+normative: RFC2046,RFC3629,RFC3986
 
 
 
