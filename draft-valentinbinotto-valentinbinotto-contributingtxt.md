@@ -21,7 +21,7 @@ venue:
   mail: rfc@vauly.net
   arch: https://github.com/valentinbinotto/id-valentin-contributingtxt-list
   github: valentinbinotto/id-valentin-contributingtxt
-  latest: https://github.com/valentinbinotto/id-valentin-contributingtxt/blob/main/v-last.txt
+  latest: https://github.com/valentinbinotto/id-valentin-contributingtxt/blob/gh-pages/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
 
 author:
  -
