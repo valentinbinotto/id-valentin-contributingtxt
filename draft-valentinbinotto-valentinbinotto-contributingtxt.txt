@@ -146,16 +146,19 @@ Table of Contents
        Admin: Valentin Binotto
        Bugs: bugs@vauly.net
 
+
        OPTIONALLY the following paragraphs can be added to the
        "contributing.txt" file:
 
-       3.  Paragraph "Open Source" with a web address to a suitable
-       platform for third party collaboration (for example github.com or
-       gitlab.com)
-       4.  Paragraph "License" with information about the license that
+   3.  Paragraph "Open Source" with a web address to a suitable platform
+       for third party collaboration (for example github.com or
+       gitlab.com).
+
+   4.  Paragraph "License" with information about the license that
        applies to the content of the website.
-       5.  Paragraph "Guidelines" with a web address to the guidelines
-       for contributing to this project.
+
+   5.  Paragraph "Guidelines" with a web address to the guidelines for
+       contributing to this project.
 
        Example:
 
@@ -172,7 +175,8 @@ Table of Contents
        # Hello, world!
 
 
-       The specified paragraphs must be placed in the specified order.
+
+       The specified paragraphs MUST be placed in the specified order.
        Only one entry is allowed per paragraph
 
        However, paragraphs can be reused an unlimited number of times,
