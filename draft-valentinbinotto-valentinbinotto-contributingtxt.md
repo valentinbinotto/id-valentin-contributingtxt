@@ -16,9 +16,9 @@ keyword:
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
+  group: V434 Project
   type: Working Group
-  mail: valentin@vauly.net
+  mail: rfc@vauly.net
   arch: https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
   github: valentinbinotto/id-valentin-contributingtxt
   latest: https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
