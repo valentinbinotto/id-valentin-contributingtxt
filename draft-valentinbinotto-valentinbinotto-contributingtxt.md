@@ -29,8 +29,7 @@ author:
     organization: valentinbinotto
     email: "valentinbinotto@vauly.net"
 
-normative: RFC2046,RFC3629,RFC3986
-
+normative:
 
 
 informative:
@@ -70,7 +69,7 @@ This document defines a file called "contributing.txt", which provides informati
 
 # Security Considerations
 
-Because of the use of URIs, security considerations of [RFC3986] apply here.
+Because of the use of URIs, security considerations of {{!RFC2119}} apply here.
 
 # IANA Considerations
 
