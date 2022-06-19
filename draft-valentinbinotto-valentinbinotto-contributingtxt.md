@@ -74,6 +74,9 @@ Because of the use of URIs, security considerations of [RFC3986] apply here.
 
 This document has no IANA actions.
 
+# Normative References
+
+itti
 
 --- back
 
