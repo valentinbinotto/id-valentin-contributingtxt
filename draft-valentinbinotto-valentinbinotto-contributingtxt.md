@@ -19,14 +19,14 @@ venue:
   group: V434 Project
   type: Working Group
   mail: rfc@vauly.net
-  arch: https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
+  arch: https://github.com/valentinbinotto/id-valentin-contributingtxt-list
   github: valentinbinotto/id-valentin-contributingtxt
-  latest: https://v434.info/id-valentin-contributingtxt/draft-valentinbinotto-valentinbinotto-contributingtxt.txt
+  latest: https://github.com/valentinbinotto/id-valentin-contributingtxt/blob/main/v-last.txt
 
 author:
  -
     fullname: Valentin Binotto
-    organization: valentinbinotto
+    organization: 
     email: "valentinbinotto@vauly.net"
 
 normative:
@@ -68,7 +68,7 @@ This document defines a file called "contributing.txt", which provides informati
 
 # Security Considerations
 
-Because of the use of URIs, security considerations of RFC3986 apply here.
+Because of the use of URIs, security considerations of [RFC3986] apply here.
 
 # IANA Considerations
 
@@ -80,4 +80,3 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
