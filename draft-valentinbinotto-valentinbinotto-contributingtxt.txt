@@ -135,9 +135,9 @@ Table of Contents
    The file "contributing.txt" MUST contain at least:
 
    1.  Paragraph "Admin" with the name of the administrator or the
-   webmaster
+   webmaster.
    2.  Paragraph "Bugs" with a mail address or a web address to report
-   bugs
+   bugs.
 
 
    Example:
