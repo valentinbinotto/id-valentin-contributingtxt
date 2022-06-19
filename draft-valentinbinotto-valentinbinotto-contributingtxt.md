@@ -88,7 +88,8 @@ Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).
 
 Example: 
-\# Hello, world!
+
+    # Hello, world!
 
 
 The specified paragraphs must be placed in the specified order. Only one entry is allowed per paragraph
@@ -97,7 +98,7 @@ The specified paragraphs must be placed in the specified order. Only one entry i
 
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.
 
-Example for a "hdhdszu.txt" file
+Example for a "hdhdszu.txt" file:
 
 
 
@@ -106,8 +107,8 @@ Bugs: bugs@vauly.net
 Open Source: github.com/valentinbino
 License: Creative Commons Attribution 4.0 International Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
-\# Valentin Binotto
-\# 92ee219838c69464862e86cb67549d1ab1eae3a7fa0d8925970fea303a72849e
+    # Valentin Binotto
+    # 92ee219838c69464862e86cb67549d1ab1eae3a7fa0d8925970fea303a72849e
 
 
 
