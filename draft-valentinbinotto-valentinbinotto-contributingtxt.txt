@@ -89,6 +89,7 @@ Table of Contents
    different procedures.  This can be a challenge due to the
    inconsistent form of the information and might also lead to users
    deciding not to participate because they cannot find a contact point.
+
    At the same time, there is a need for "bug reports" in other forms of
    websites as well.  Users are expected to point out bugs to the person
    in charge and thus lead to a better user experience for all users.
@@ -104,7 +105,7 @@ Table of Contents
        to inform interested parties about the possibilities of
        contributing.
 
-   2.  to offer any kind of web site the possibility to define a contact
+   2.  to offer any kind of website the possibility to define a contact
        person for bug reports etc.
 
 2.  Conventions and Definitions
