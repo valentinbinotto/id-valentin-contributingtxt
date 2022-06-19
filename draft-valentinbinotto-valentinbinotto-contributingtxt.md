@@ -36,8 +36,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
-
+Open source projects rely on the cooperation of third parties.  Other websites also rely on user feedback, for example, when bugs occur. There are various platforms that enable effective collaboration. However, this diversity also presents a challenge. Where should users who have discovered an error report it? Or how can third parties participate in a project? This document presents one way to communicate such information in a consistent manner.
 
 --- middle
 
