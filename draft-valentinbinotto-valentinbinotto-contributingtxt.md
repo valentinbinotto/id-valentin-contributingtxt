@@ -30,19 +30,9 @@ author:
     email: "valentinbinotto@vauly.net"
 
 normative: 
-   [RFC2046]  Freed, N. and Borenstein, N., "Multipurpose Internet Mail Extensions
-              (MIME) Part Two: Media Types", RFC 2046,
-              10.17487/RFC2046, November 1996,
-              <https://www.rfc-editor.org/rfc/rfc2046>.
-
-   [RFC3629]  Yergeau, F., "UTF-8, a transformation format of ISO 10646",
-	      RFC 3629, 10.17487/RFC3629, November 2003,
-              <https://www.rfc-editor.org/rfc/rfc3629>.
-
-   [RFC3986]  Berners-Lee, T. and Fielding, R. and Masinter, L., 
-              "Uniform Resource Identifier (URI): Generic Syntax",
-	      RFC 3986, 10.17487/RFC3986, January 2005,
-              <https://www.rfc-editor.org/rfc/rfc3629>.
+   RFC2046
+   RFC3629
+   RFC3986
 
 
 
