@@ -59,14 +59,14 @@ The goal of this document and the proposed form of communication in the "contrib
 # The Specification
 This document defines a file called "contributing.txt", which provides information about possible contribution to a project or website.  The file format of "contributing.txt" MUST be plain text (MIME type "text/plain") (Section 4.1.3 of {{!RFC2046}}) and MUST be encoded using UTF-8 ({{!RFC3629}}).
 
-The file "contributing.txt" MUST be placed directly under the domain (for example: example.com/contributing.txt).
+The file "contributing.txt" MUST be placed directly under the domain (for example: <https://example.com/contributing.txt>).
 
 The file "contributing.txt" MUST contain at least:
 
 - Paragraph "Admin" with the name of the administrator or the webmaster.
 - Paragraph "Bugs" with a mail address or a web address to report bugs.
 
-Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net
+Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com
 
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
@@ -80,7 +80,7 @@ OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of t
 Example: <br><br># Hello, world!<br><br><br><br>
 
 The specified paragraphs MUST be placed in the specified order. Only one entry is allowed per paragraph<br><br>
-However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br>Open Source: github.com/valentinbino<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Valentin Binotto<br># Hello, world!
+However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!
 
 
 
