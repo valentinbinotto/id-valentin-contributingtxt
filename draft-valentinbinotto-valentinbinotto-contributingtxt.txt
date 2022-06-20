@@ -182,7 +182,7 @@ Table of Contents
 
       Example for a "contributing.txt" file:
 
-      ~~~~ language-UTF-8 Admin: Valentin Binotto
+      ~~~~ Admin: Valentin Binotto
       Bugs: bugs@vauly.net
       Open Source: github.com/valentinbino
       License: Creative Commons Attribution 4.0 Int. Public License
