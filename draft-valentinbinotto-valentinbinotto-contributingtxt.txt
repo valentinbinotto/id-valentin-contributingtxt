@@ -131,21 +131,17 @@ Table of Contents
    (for example: example.com/contributing.txt).
 
    The file "contributing.txt" MUST contain at least:
+      *  Paragraph "Admin" with the name of the administrator or the
+         webmaster.
 
-   *  Paragraph "Admin" with the name of the administrator or the
-      webmaster.
+      *  Paragraph "Bugs" with a mail address or a web address to report
+         bugs.  Example:
 
-   *  Paragraph "Bugs" with a mail address or a web address to report
-      bugs.
+         Admin: Valentin Binotto
+         Bugs: bugs@vauly.net
 
-      Example:
-
-      Admin: Valentin Binotto
-      Bugs: bugs@vauly.net
-
-
-      OPTIONALLY the following paragraphs can be added to the
-      "contributing.txt" file:
+   OPTIONALLY the following paragraphs can be added to the
+   "contributing.txt" file:
 
    *  Paragraph "Open Source" with a web address to a suitable platform
       for third party collaboration (for example github.com or
@@ -189,9 +185,6 @@ Table of Contents
       Guidelines: github.com/valentinbinotto/v434/guidelines.txt
       # Valentin Binotto
       # Hello, world!
-
-   the definiton is
-      dont go to the wall
 
 4.  Security Considerations
 
