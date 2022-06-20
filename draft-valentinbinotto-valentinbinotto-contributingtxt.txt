@@ -128,8 +128,7 @@ Table of Contents
    encoded using UTF-8 ([RFC3629]).
 
    The file "contributing.txt" MUST be placed directly under the domain
-   (for example: https://example.com/contributing.txt
-   (https://example.com/contributing.txt)).
+   (for example: https://example.com/contributing.txt).
 
    The file "contributing.txt" MUST contain at least:
 
