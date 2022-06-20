@@ -156,38 +156,37 @@ Table of Contents
    *  Paragraph "Guidelines" with a web address to the guidelines for
       contributing to this project.
 
-      Example:
+   Example:
 
-      Open Source: github.com/valentinbinotto
-      License: Creative Commons Attribution 4.0 Int. Public License
-      Guidelines: github.com/valentinbinotto/v434/guidelines.txt
+   Open Source: github.com/valentinbinotto
+   License: Creative Commons Attribution 4.0 Int. Public License
+   Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
+   OPTIONALLY, comments can be added to the "contributing.txt" file.
+   Each line of the comment must start with "#" (%x23).
 
+   Example:
 
-      OPTIONALLY, comments can be added to the "contributing.txt" file.
-      Each line of the comment must start with "#" (%x23).
-
-      Example:
-
-      # Hello, world!
+   # Hello, world!
 
 
 
-      The specified paragraphs MUST be placed in the specified order.
-      Only one entry is allowed per paragraph
 
-      However, paragraphs can be reused an unlimited number of times, as
-      long as the order of the paragraphs is still as specified.
+   The specified paragraphs MUST be placed in the specified order.  Only
+   one entry is allowed per paragraph
 
-      Example for a "contributing.txt" file:
+   However, paragraphs can be reused an unlimited number of times, as
+   long as the order of the paragraphs is still as specified.
 
-      Admin: Valentin Binotto
-      Bugs: bugs@vauly.net
-      Open Source: github.com/valentinbino
-      License: Creative Commons Attribution 4.0 Int. Public License
-      Guidelines: github.com/valentinbinotto/v434/guidelines.txt
-      # Valentin Binotto
-      # Hello, world!
+   Example for a "contributing.txt" file:
+
+   Admin: Valentin Binotto
+   Bugs: bugs@vauly.net
+   Open Source: github.com/valentinbino
+   License: Creative Commons Attribution 4.0 Int. Public License
+   Guidelines: github.com/valentinbinotto/v434/guidelines.txt
+   # Valentin Binotto
+   # Hello, world!
 
 4.  Security Considerations
 
