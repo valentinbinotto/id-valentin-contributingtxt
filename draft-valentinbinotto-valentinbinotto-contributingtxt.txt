@@ -136,10 +136,12 @@ Table of Contents
       webmaster.
 
    *  Paragraph "Bugs" with a mail address or a web address to report
-      bugs.  Example:
+      bugs.
 
-      Admin: Valentin Binotto
-      Bugs: bugs@vauly.net
+   Example:
+
+   Admin: Valentin Binotto
+   Bugs: bugs@vauly.net
 
    OPTIONALLY the following paragraphs can be added to the
    "contributing.txt" file:
