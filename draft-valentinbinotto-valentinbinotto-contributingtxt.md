@@ -59,7 +59,7 @@ The goal of this document and the proposed form of communication in the "contrib
 # The Specification
 This document defines a file called "contributing.txt", which provides information about possible contribution to a project or website.  The file format of "contributing.txt" MUST be plain text (MIME type "text/plain") (Section 4.1.3 of {{!RFC2046}}) and MUST be encoded using UTF-8 ({{!RFC3629}}).
 
-The file "contributing.txt" MUST be placed directly under the domain (for example: <https://example.com/contributing.txt>).
+The file "contributing.txt" MUST be placed directly under the domain (for example: https://example.com/contributing.txt).
 
 The file "contributing.txt" MUST contain at least:
 
