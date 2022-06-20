@@ -4,8 +4,8 @@
 
 WG Working Group                                              V. Binotto
 Internet-Draft                                           valentinbinotto
-Intended status: Informational                              19 June 2022
-Expires: 21 December 2022
+Intended status: Informational                              20 June 2022
+Expires: 22 December 2022
 
 
          a simple way to provide informations for contributors
@@ -54,7 +54,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 21 December 2022.
+   This Internet-Draft will expire on 22 December 2022.
 
 Copyright Notice
 
@@ -182,13 +182,13 @@ Table of Contents
 
       Example for a "contributing.txt" file:
 
-      Admin: Valentin Binotto
+      ~~~~ language-UTF-8 Admin: Valentin Binotto
       Bugs: bugs@vauly.net
       Open Source: github.com/valentinbino
       License: Creative Commons Attribution 4.0 Int. Public License
       Guidelines: github.com/valentinbinotto/v434/guidelines.txt
       # Valentin Binotto
-      # Hello, world!
+      # Hello, world! ~~~~
 
 4.  Security Considerations
 
