@@ -128,7 +128,8 @@ Table of Contents
    encoded using UTF-8 ([RFC3629]).
 
    The file "contributing.txt" MUST be placed directly under the domain
-   (for example: example.com/contributing.txt).
+   (for example: https://example.com/contributing.txt
+   (https://example.com/contributing.txt)).
 
    The file "contributing.txt" MUST contain at least:
 
@@ -141,7 +142,7 @@ Table of Contents
    Example:
 
    Admin: Valentin Binotto
-   Bugs: bugs@vauly.net
+   Bugs: bugs@example.com
 
    OPTIONALLY the following paragraphs can be added to the
    "contributing.txt" file:
@@ -181,11 +182,10 @@ Table of Contents
    Example for a "contributing.txt" file:
 
    Admin: Valentin Binotto
-   Bugs: bugs@vauly.net
-   Open Source: github.com/valentinbino
+   Bugs: bugs@example.com
+   Open Source: github.com/valentinbinotto
    License: Creative Commons Attribution 4.0 Int. Public License
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
-   # Valentin Binotto
    # Hello, world!
 
 4.  Security Considerations
