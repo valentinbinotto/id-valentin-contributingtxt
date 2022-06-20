@@ -65,6 +65,7 @@ The file "contributing.txt" MUST contain at least:
 
 - Paragraph "Admin" with the name of the administrator or the webmaster.
 - Paragraph "Bugs" with a mail address or a web address to report bugs.
+
 Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net
 
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
