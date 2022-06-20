@@ -64,10 +64,11 @@ This document defines a file called "contributing.txt", which provides informati
 
 - Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).
 - Paragraph "License" with information about the license that applies to the content of the website.
-- Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.<br><br>Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br><br><br><br>OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>Example: <br><br># Hello, world!<br><br><br><br>The specified paragraphs MUST be placed in the specified order. Only one entry is allowed per paragraph<br><br>However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>
-~~~~
-Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br>Open Source: github.com/valentinbino<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Valentin Binotto<br># Hello, world!
-~~~~
+- Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.<br><br>Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br><br><br><br>OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>Example: <br><br># Hello, world!<br><br><br><br>The specified paragraphs MUST be placed in the specified order. Only one entry is allowed per paragraph<br><br>However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@vauly.net<br>Open Source: github.com/valentinbino<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Valentin Binotto<br># Hello, world!
+
+{:vspace}
+the definiton is
+: dont go to the wall
 
 # Security Considerations
 
