@@ -91,14 +91,11 @@ The specified paragraphs MUST be placed in the following order:
 Only one entry is allowed per paragraph<br><br>
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!
 
-~~~~ language-
+~~~~ artwork
 Hello, wold!
 ~~~~
 {: title='Example' sourcecode-markers="false"}
 
-<pre>
- Hi, there
- </pre>
 
 # Security Considerations
 
