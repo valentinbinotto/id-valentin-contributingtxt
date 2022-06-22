@@ -96,6 +96,10 @@ Hello, wold!
 ~~~~
 {: title='Example' sourcecode-markers="false"}
 
+<arp>
+ Hi, there
+ </arp>
+
 # Security Considerations
 
 Because of the use of URIs, security considerations of {{!RFC3986}} apply here.
