@@ -96,9 +96,9 @@ Hello, wold!
 ~~~~
 {: title='Example' sourcecode-markers="false"}
 
-<arp>
+<pre>
  Hi, there
- </arp>
+ </pre>
 
 # Security Considerations
 
