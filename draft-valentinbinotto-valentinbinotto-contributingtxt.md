@@ -110,7 +110,7 @@ However, paragraphs can be reused an unlimited number of times, as long as the o
 
 ~~~~ txt
 Admin: Valentin Binotto
-Bugs: bugs@example.com<
+Bugs: bugs@example.com
 Open Source: github.com/valentinbinotto
 License: Creative Commons Attribution 4.0 Int. Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
