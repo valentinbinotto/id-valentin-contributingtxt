@@ -194,7 +194,7 @@ Table of Contents
        as long as the order of the paragraphs is still as specified.
 
    Admin: Valentin Binotto
-   Bugs: bugs@example.com<
+   Bugs: bugs@example.com
    Open Source: github.com/valentinbinotto
    License: Creative Commons Attribution 4.0 Int. Public License
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
