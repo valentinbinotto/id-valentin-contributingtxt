@@ -164,12 +164,16 @@ Table of Contents
 
                             Figure 2: Example 2
 
+
+
    OPTIONALLY, comments can be added to the "contributing.txt" file.
    Each line of the comment must start with "#" (%x23).
 
    # Hello, world!
 
                             Figure 3: Example 3
+
+
 
    The specified paragraphs MUST be placed in the following order:
 
