@@ -4,8 +4,8 @@
 
 WG Working Group                                              V. Binotto
 Internet-Draft                                           valentinbinotto
-Intended status: Informational                              20 June 2022
-Expires: 22 December 2022
+Intended status: Informational                              22 June 2022
+Expires: 24 December 2022
 
 
          a simple way to provide informations for contributors
@@ -54,7 +54,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 22 December 2022.
+   This Internet-Draft will expire on 24 December 2022.
 
 Copyright Notice
 
@@ -168,9 +168,6 @@ Table of Contents
    Example:
 
    # Hello, world!
-
-
-
 
    The specified paragraphs MUST be placed in the specified order.  Only
    one entry is allowed per paragraph
