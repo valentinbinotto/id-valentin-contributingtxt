@@ -94,7 +94,7 @@ However, paragraphs can be reused an unlimited number of times, as long as the o
 ~~~~ 
 # Hello, world!
 ~~~~
-{: title='Example I]'}
+{: title='Example I'}
 
 # Security Considerations
 
