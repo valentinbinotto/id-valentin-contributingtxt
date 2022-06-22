@@ -77,7 +77,7 @@ OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>
-Example: <br><br># Hello, world!<br><br><br><br>
+Example: <br><br># Hello, world!
 
 The specified paragraphs MUST be placed in the specified order. Only one entry is allowed per paragraph<br><br>
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!
