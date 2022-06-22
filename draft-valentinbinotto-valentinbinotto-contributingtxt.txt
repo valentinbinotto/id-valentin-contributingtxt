@@ -169,7 +169,7 @@ Table of Contents
 
    # Hello, world!
 
-   The specified paragraphs MUST be placed in the specified order:
+   The specified paragraphs MUST be placed in the following order:
 
    1.  Admin
 
