@@ -79,21 +79,23 @@ OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 - Paragraph "License" with information about the license that applies to the content of the website.
 - Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
 
-~~~~ language
+~~~~ txt
 Open Source: github.com/valentinbinotto
 License: Creative Commons Attribution 4.0 Int. Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 ~~~~
 {: title='Example 2' sourcecode-markers="false"}
 
+<br><br>
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).
 
 
-~~~~ language
+~~~~ txt
 # Hello, world!
 ~~~~
 {: title='Example 3' sourcecode-markers="false"}
 
+<br><br>
 The specified paragraphs MUST be placed in the following order:
 
 1. Admin
@@ -106,7 +108,7 @@ The specified paragraphs MUST be placed in the following order:
 Only one entry is allowed per paragraph<br><br>
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>
 
-~~~~ language
+~~~~ txt
 Admin: Valentin Binotto
 Bugs: bugs@example.com<
 Open Source: github.com/valentinbinotto
