@@ -66,7 +66,7 @@ The file "contributing.txt" MUST contain at least:
 - Paragraph "Admin" with the name of the administrator or the webmaster.
 - Paragraph "Bugs" with a mail address or a web address to report bugs.
 
-~~~~
+~~~~ txt
 Admin: Valentin Binotto
 Bugs: bugs@example.com
 ~~~~
@@ -79,7 +79,7 @@ OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 - Paragraph "License" with information about the license that applies to the content of the website.
 - Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
 
-~~~~ 
+~~~~ language
 Open Source: github.com/valentinbinotto
 License: Creative Commons Attribution 4.0 Int. Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
@@ -89,7 +89,7 @@ Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).
 
 
-~~~~
+~~~~ language
 # Hello, world!
 ~~~~
 {: title='Example 3' sourcecode-markers="false"}
@@ -106,7 +106,7 @@ The specified paragraphs MUST be placed in the following order:
 Only one entry is allowed per paragraph<br><br>
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>
 
-~~~~ 
+~~~~ language
 Admin: Valentin Binotto
 Bugs: bugs@example.com<
 Open Source: github.com/valentinbinotto
