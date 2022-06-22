@@ -66,11 +66,11 @@ The file "contributing.txt" MUST contain at least:
 - Paragraph "Admin" with the name of the administrator or the webmaster.
 - Paragraph "Bugs" with a mail address or a web address to report bugs.
 
+Example:
 ~~~~ artwork
 Admin: Valentin Binotto
 Bugs: bugs@example.com
 ~~~~
-{: title='Example 1' sourcecode-markers="false"}
 <br><br>
 
 
@@ -80,21 +80,21 @@ OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 - Paragraph "License" with information about the license that applies to the content of the website.
 - Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
 
+Example:
 ~~~~ artwork
 Open Source: github.com/valentinbinotto
 License: Creative Commons Attribution 4.0 Int. Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 ~~~~
-{: title='Example 2' sourcecode-markers="false"}
 <br><br>
 
 
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).
 
+Example:
 ~~~~ artwork
 # Hello, world!
 ~~~~
-{: title='Example 3' sourcecode-markers="false"}
 <br><br>
 
 
@@ -110,6 +110,7 @@ The specified paragraphs MUST be placed in the following order:
 Only one entry is allowed per paragraph<br><br>
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>
 
+Example for a "contributing.txt" file:
 ~~~~ artwork
 Admin: Valentin Binotto
 Bugs: bugs@example.com<
@@ -118,7 +119,6 @@ License: Creative Commons Attribution 4.0 Int. Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 # Hello, world!
 ~~~~
-{: title='Example for a "contributing.txt" file' sourcecode-markers="false"}
 
 
 # Security Considerations
