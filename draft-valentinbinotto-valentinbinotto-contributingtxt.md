@@ -79,7 +79,7 @@ Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Com
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>
 Example: <br><br># Hello, world!
 
-The specified paragraphs MUST be placed in the specified order:
+The specified paragraphs MUST be placed in the following order:
 
 1. Admin
 2. Bugs
