@@ -138,8 +138,11 @@ Table of Contents
    *  Paragraph "Bugs" with a mail address or a web address to report
       bugs.
 
-   Example: ~~~~ artwork Admin: Valentin Binotto Bugs: bugs@example.com
-   ~~~~
+   Admin: Valentin Binotto
+   Bugs: bugs@example.com
+
+                            Figure 1: Example 1
+
 
 
    OPTIONALLY the following paragraphs can be added to the
@@ -155,16 +158,18 @@ Table of Contents
    *  Paragraph "Guidelines" with a web address to the guidelines for
       contributing to this project.
 
-   Example: ~~~~ artwork Open Source: github.com/valentinbinotto
+   Open Source: github.com/valentinbinotto
    License: Creative Commons Attribution 4.0 Int. Public License
-   Guidelines: github.com/valentinbinotto/v434/guidelines.txt ~~~~
+   Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
+                            Figure 2: Example 2
 
    OPTIONALLY, comments can be added to the "contributing.txt" file.
    Each line of the comment must start with "#" (%x23).
 
-   Example: ~~~~ artwork # Hello, world! ~~~~
+   # Hello, world!
 
+                            Figure 3: Example 3
 
    The specified paragraphs MUST be placed in the following order:
 
@@ -184,11 +189,14 @@ Table of Contents
        However, paragraphs can be reused an unlimited number of times,
        as long as the order of the paragraphs is still as specified.
 
-   Example for a "contributing.txt" file: ~~~~ artwork Admin: Valentin
-   Binotto Bugs: bugs@example.com< Open Source: github.com/
-   valentinbinotto License: Creative Commons Attribution 4.0 Int. Public
-   License Guidelines: github.com/valentinbinotto/v434/guidelines.txt #
-   Hello, world! ~~~~
+   Admin: Valentin Binotto
+   Bugs: bugs@example.com<
+   Open Source: github.com/valentinbinotto
+   License: Creative Commons Attribution 4.0 Int. Public License
+   Guidelines: github.com/valentinbinotto/v434/guidelines.txt
+   # Hello, world!
+
+              Figure 4: Example for a "contributing.txt" file
 
 4.  Security Considerations
 
