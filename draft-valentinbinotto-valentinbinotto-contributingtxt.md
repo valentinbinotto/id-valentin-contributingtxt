@@ -70,7 +70,8 @@ The file "contributing.txt" MUST contain at least:
 Admin: Valentin Binotto
 Bugs: bugs@example.com
 ~~~~
-{: title='Example 1' sourcecode-markers="false"}<br><br>
+{: title='Example 1' sourcecode-markers="false"}
+<br><br>
 
 
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
@@ -84,7 +85,8 @@ Open Source: github.com/valentinbinotto
 License: Creative Commons Attribution 4.0 Int. Public License
 Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 ~~~~
-{: title='Example 2' sourcecode-markers="false"}<br><br>
+{: title='Example 2' sourcecode-markers="false"}
+<br><br>
 
 
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).
@@ -92,7 +94,8 @@ OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of t
 ~~~~ artwork
 # Hello, world!
 ~~~~
-{: title='Example 3' sourcecode-markers="false"}<br><br>
+{: title='Example 3' sourcecode-markers="false"}
+<br><br>
 
 
 The specified paragraphs MUST be placed in the following order:
