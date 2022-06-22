@@ -197,6 +197,12 @@ Table of Contents
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
    # Hello, world!
 
+   <CODE BEGINS>
+   source code goes here [REPLACE]
+   <CODE ENDS>
+
+                         Figure 1: Source [Example]
+
 4.  Security Considerations
 
    Because of the use of URIs, security considerations of [RFC3986]
