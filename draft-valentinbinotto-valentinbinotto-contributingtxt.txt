@@ -141,7 +141,9 @@ Table of Contents
    Admin: Valentin Binotto
    Bugs: bugs@example.com
 
-   {: title='Example 1' sourcecode-markers="false"}
+                            Figure 1: Example 1
+
+
 
 
    OPTIONALLY the following paragraphs can be added to the
@@ -161,7 +163,9 @@ Table of Contents
    License: Creative Commons Attribution 4.0 Int. Public License
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
-   {: title='Example 2' sourcecode-markers="false"}
+                            Figure 2: Example 2
+
+
 
 
    OPTIONALLY, comments can be added to the "contributing.txt" file.
@@ -169,7 +173,9 @@ Table of Contents
 
    # Hello, world!
 
-   {: title='Example 3' sourcecode-markers="false"}
+                            Figure 3: Example 3
+
+
 
 
    The specified paragraphs MUST be placed in the following order:
@@ -197,7 +203,7 @@ Table of Contents
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
    # Hello, world!
 
-              Figure 1: Example for a "contributing.txt" file
+              Figure 4: Example for a "contributing.txt" file
 
 4.  Security Considerations
 
