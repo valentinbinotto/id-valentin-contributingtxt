@@ -141,7 +141,8 @@ Table of Contents
    Admin: Valentin Binotto
    Bugs: bugs@example.com
 
-                            Figure 1: Example 1
+   {: title='Example 1' sourcecode-markers="false"}
+
 
    OPTIONALLY the following paragraphs can be added to the
    "contributing.txt" file:
@@ -160,15 +161,16 @@ Table of Contents
    License: Creative Commons Attribution 4.0 Int. Public License
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
-                            Figure 2: Example 2
+   {: title='Example 2' sourcecode-markers="false"}
+
 
    OPTIONALLY, comments can be added to the "contributing.txt" file.
    Each line of the comment must start with "#" (%x23).
 
-
    # Hello, world!
 
-                            Figure 3: Example 3
+   {: title='Example 3' sourcecode-markers="false"}
+
 
    The specified paragraphs MUST be placed in the following order:
 
@@ -183,11 +185,10 @@ Table of Contents
    5.  Guidelines
 
    6.  (Comments)
+       Only one entry is allowed per paragraph
 
-   Only one entry is allowed per paragraph
-
-   However, paragraphs can be reused an unlimited number of times, as
-   long as the order of the paragraphs is still as specified.
+       However, paragraphs can be reused an unlimited number of times,
+       as long as the order of the paragraphs is still as specified.
 
    Admin: Valentin Binotto
    Bugs: bugs@example.com<
@@ -196,7 +197,7 @@ Table of Contents
    Guidelines: github.com/valentinbinotto/v434/guidelines.txt
    # Hello, world!
 
-              Figure 4: Example for a "contributing.txt" file
+              Figure 1: Example for a "contributing.txt" file
 
 4.  Security Considerations
 
