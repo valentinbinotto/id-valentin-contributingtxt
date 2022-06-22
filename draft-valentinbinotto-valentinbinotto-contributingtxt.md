@@ -66,7 +66,12 @@ The file "contributing.txt" MUST contain at least:
 - Paragraph "Admin" with the name of the administrator or the webmaster.
 - Paragraph "Bugs" with a mail address or a web address to report bugs.
 
-Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com
+~~~~ artwork
+Admin: Valentin Binotto
+Bugs: bugs@example.com
+~~~~
+{: title='Example 1' sourcecode-markers="false"}
+
 
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
@@ -74,10 +79,21 @@ OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 - Paragraph "License" with information about the license that applies to the content of the website.
 - Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
 
-Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt
+~~~~ artwork
+Open Source: github.com/valentinbinotto
+License: Creative Commons Attribution 4.0 Int. Public License
+Guidelines: github.com/valentinbinotto/v434/guidelines.txt
+~~~~
+{: title='Example 2' sourcecode-markers="false"}
+
 
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>
-Example: <br><br># Hello, world!
+
+~~~~ artwork
+# Hello, world!
+~~~~
+{: title='Example 3' sourcecode-markers="false"}
+
 
 The specified paragraphs MUST be placed in the following order:
 
@@ -89,12 +105,17 @@ The specified paragraphs MUST be placed in the following order:
 6. (Comments)
 
 Only one entry is allowed per paragraph<br><br>
-However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!
+However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.
 
 ~~~~ artwork
-Hello, wold!
+Admin: Valentin Binotto
+Bugs: bugs@example.com<
+Open Source: github.com/valentinbinotto
+License: Creative Commons Attribution 4.0 Int. Public License
+Guidelines: github.com/valentinbinotto/v434/guidelines.txt
+# Hello, world!
 ~~~~
-{: title='Example' sourcecode-markers="false"}
+{: title='Example for a "contributing.txt" file' sourcecode-markers="false"}
 
 
 # Security Considerations
