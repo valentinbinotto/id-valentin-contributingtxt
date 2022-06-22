@@ -63,23 +63,32 @@ The file "contributing.txt" MUST be placed directly under the domain (for exampl
 
 The file "contributing.txt" MUST contain at least:
 
-1. Paragraph "Admin" with the name of the administrator or the webmaster.
-2. Paragraph "Bugs" with a mail address or a web address to report bugs.
+- Paragraph "Admin" with the name of the administrator or the webmaster.
+- Paragraph "Bugs" with a mail address or a web address to report bugs.
 
 Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com
 
 OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:
 
-3. Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).
-4. Paragraph "License" with information about the license that applies to the content of the website.
-5. Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
+- Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).
+- Paragraph "License" with information about the license that applies to the content of the website.
+- Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.
 
 Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt
 
 OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>
 Example: <br><br># Hello, world!
 
-The specified paragraphs MUST be placed in the specified order. Only one entry is allowed per paragraph<br><br>
+The specified paragraphs MUST be placed in the specified order:
+
+1. Admin
+2. Bugs
+3. Open Source
+4. License
+5. Guidelines
+6. (Comments)
+
+Only one entry is allowed per paragraph<br><br>
 However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!
 
 
