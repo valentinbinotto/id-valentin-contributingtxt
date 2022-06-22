@@ -1190,27 +1190,42 @@ appear in all capitals, as shown here.<a href="#section-2-1" class="pilcrow">¶<
 <p id="section-3-1">This document defines a file called "contributing.txt", which provides information about possible contribution to a project or website.  The file format of "contributing.txt" <span class="bcp14">MUST</span> be plain text (MIME type "text/plain") (Section 4.1.3 of <span>[<a href="#RFC2046" class="xref">RFC2046</a>]</span>) and <span class="bcp14">MUST</span> be encoded using UTF-8 (<span>[<a href="#RFC3629" class="xref">RFC3629</a>]</span>).<a href="#section-3-1" class="pilcrow">¶</a></p>
 <p id="section-3-2">The file "contributing.txt" <span class="bcp14">MUST</span> be placed directly under the domain (for example: https://example.com/contributing.txt).<a href="#section-3-2" class="pilcrow">¶</a></p>
 <p id="section-3-3">The file "contributing.txt" <span class="bcp14">MUST</span> contain at least:<a href="#section-3-3" class="pilcrow">¶</a></p>
-<ol start="1" type="1" class="normal type-1" id="section-3-4">
-<li id="section-3-4.1">Paragraph "Admin" with the name of the administrator or the webmaster.<a href="#section-3-4.1" class="pilcrow">¶</a>
+<ul class="normal">
+<li class="normal" id="section-3-4.1">Paragraph "Admin" with the name of the administrator or the webmaster.<a href="#section-3-4.1" class="pilcrow">¶</a>
 </li>
-        <li id="section-3-4.2">Paragraph "Bugs" with a mail address or a web address to report bugs.<a href="#section-3-4.2" class="pilcrow">¶</a>
+        <li class="normal" id="section-3-4.2">Paragraph "Bugs" with a mail address or a web address to report bugs.<a href="#section-3-4.2" class="pilcrow">¶</a>
 </li>
-      </ol>
+      </ul>
 <p id="section-3-5">Example:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<a href="#section-3-5" class="pilcrow">¶</a></p>
 <p id="section-3-6">OPTIONALLY the following paragraphs can be added to the "contributing.txt" file:<a href="#section-3-6" class="pilcrow">¶</a></p>
-<ol start="1" type="1" class="normal type-1" id="section-3-7">
-<li id="section-3-7.1">Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).<a href="#section-3-7.1" class="pilcrow">¶</a>
+<ul class="normal">
+<li class="normal" id="section-3-7.1">Paragraph "Open Source" with a web address to a suitable platform for third party collaboration (for example github.com or gitlab.com).<a href="#section-3-7.1" class="pilcrow">¶</a>
 </li>
-        <li id="section-3-7.2">Paragraph "License" with information about the license that applies to the content of the website.<a href="#section-3-7.2" class="pilcrow">¶</a>
+        <li class="normal" id="section-3-7.2">Paragraph "License" with information about the license that applies to the content of the website.<a href="#section-3-7.2" class="pilcrow">¶</a>
 </li>
-        <li id="section-3-7.3">Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.<a href="#section-3-7.3" class="pilcrow">¶</a>
+        <li class="normal" id="section-3-7.3">Paragraph "Guidelines" with a web address to the guidelines for contributing to this project.<a href="#section-3-7.3" class="pilcrow">¶</a>
 </li>
-      </ol>
+      </ul>
 <p id="section-3-8">Example:<br><br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<a href="#section-3-8" class="pilcrow">¶</a></p>
 <p id="section-3-9">OPTIONALLY, comments can be added to the "contributing.txt" file. Each line of the comment must start with "#" (%x23).<br><br>
 Example: <br><br># Hello, world!<a href="#section-3-9" class="pilcrow">¶</a></p>
-<p id="section-3-10">The specified paragraphs <span class="bcp14">MUST</span> be placed in the specified order. Only one entry is allowed per paragraph<br><br>
-However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!<a href="#section-3-10" class="pilcrow">¶</a></p>
+<p id="section-3-10">The specified paragraphs <span class="bcp14">MUST</span> be placed in the specified order:<a href="#section-3-10" class="pilcrow">¶</a></p>
+<ol start="1" type="1" class="normal type-1" id="section-3-11">
+<li id="section-3-11.1">Admin<a href="#section-3-11.1" class="pilcrow">¶</a>
+</li>
+        <li id="section-3-11.2">Bugs<a href="#section-3-11.2" class="pilcrow">¶</a>
+</li>
+        <li id="section-3-11.3">Open Source<a href="#section-3-11.3" class="pilcrow">¶</a>
+</li>
+        <li id="section-3-11.4">License<a href="#section-3-11.4" class="pilcrow">¶</a>
+</li>
+        <li id="section-3-11.5">Guidelines<a href="#section-3-11.5" class="pilcrow">¶</a>
+</li>
+        <li id="section-3-11.6">(Comments)<a href="#section-3-11.6" class="pilcrow">¶</a>
+</li>
+      </ol>
+<p id="section-3-12">Only one entry is allowed per paragraph<br><br>
+However, paragraphs can be reused an unlimited number of times, as long as the order of the paragraphs is still as specified.<br><br>Example for a "contributing.txt" file:<br><br>Admin: Valentin Binotto<br>Bugs: bugs@example.com<br>Open Source: github.com/valentinbinotto<br>License: Creative Commons Attribution 4.0 Int. Public License<br>Guidelines: github.com/valentinbinotto/v434/guidelines.txt<br># Hello, world!<a href="#section-3-12" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="security-considerations">
